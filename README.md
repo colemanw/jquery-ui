@@ -10,7 +10,7 @@ If you are interested in helping develop jQuery UI, you are in the right place.
 To discuss development with team members and the community, visit the [Developing jQuery UI Forum](http://forum.jquery.com/developing-jquery-ui) or [#jqueryui-dev on irc.freenode.net](http://irc.jquery.org/).
 
 
-## For Contributors
+## For Contributors and stuff
 
 If you want to help and provide a patch for a bugfix or new feature, please take
 a few minutes and look at [our Getting Involved guide](http://wiki.jqueryui.com/w/page/35263114/Getting-Involved).
